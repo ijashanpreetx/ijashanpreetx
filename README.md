@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ijashanpreetx
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me tu kii lena 
-- 😄 Pronouns: hehe
-- ⚡ Fun fact: fuddu aw tu
+
 
 <!---
 ijashanpreetx/ijashanpreetx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
